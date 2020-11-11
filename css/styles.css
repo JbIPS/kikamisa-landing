@@ -15,7 +15,7 @@ body {
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
-	background-image: url(/assets/background_opt.svg);
+	background-image: url(../assets/background_opt.svg);
   background-repeat: no-repeat;
 	background-size: cover;
 	z-index: -1;
@@ -59,7 +59,7 @@ h3 {
 }
 
 section {
-	margin-top: 15vh;
+	padding: 7vh 0;
 }
 
 section.alt {
@@ -70,7 +70,7 @@ section.alt {
 a.main {
 	font-family: Grandstander;
 	color: #fff;
-	background-image: url(/assets/raised-btn.svg);
+	background-image: url(../assets/raised-btn.svg);
 	background-size: 100% 100%;
 	padding: 12px 36px;
 	border: 0;
@@ -93,7 +93,7 @@ h2.mb-0 > button:hover {
 }
 
 footer {
-	background-image: url(/assets/header_opt.svg);
+	background-image: url(../assets/header_opt.svg);
 	background-size: cover;
 	min-height: 84px;
 	transform: scale(-1);
@@ -111,4 +111,9 @@ footer li{
 
 footer li > a {
 	color: #e2ecf2;
+}
+
+section.legal {
+	margin-top: 15vh;
+	text-align: justify;
 }

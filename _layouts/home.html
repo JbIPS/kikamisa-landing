@@ -1,0 +1,36 @@
+---
+layout: kikamisa
+---
+<section class="container">
+  <h1>{{page.title}}</h1>
+
+  <h3>{{page.subtitle}}<br></h2>
+
+    <a class="main" href="https://play.kikamisa.fr">Lancer une partie</a>
+</section>
+<section class="alt">
+  <div class="container">
+    <h2>F.A.Q.</h2>
+    <div class="accordion" id="faq-list">
+      {% for question in site.data.faq %}
+      {% assign slug = question.question | slugify %}
+      <div class="card">
+        <div class="card-header" id="header-{{slug}}">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
+              data-target="#{{slug}}" aria-controls="{{slug}}">
+              {{question.question}}
+            </button>
+          </h2>
+        </div>
+
+        <div id="{{slug}}" class="collapse" aria-labelledby="header-{{slug}}" data-parent="#faq-list">
+          <div class="card-body">
+            {{question.reponse}}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
