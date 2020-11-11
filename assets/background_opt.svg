@@ -11,7 +11,8 @@
  </metadata>
  <g transform="translate(59.808 -141.91)">
   <g transform="matrix(.47869 .00016922 -.00017036 .47549 53.058 322.85)" opacity=".25">
-   <g fill="#e2ecf2" opacity="1" stroke-width=".99981">
+  <!--#e2ecf2-->
+   <g fill="#ff0000" opacity="1" stroke-width=".99981">
     <path d="m-235.91-380.44 4.9276-2e-3 24.204 20.735-29.131-17.347z" opacity="1"/>
     <path d="m-223.64-380.45 38.689 33.709-44.618-33.707z" opacity="1"/>
     <path d="m-214.62-380.45 17.847 19.441-24.736-19.439z" opacity="1"/>
