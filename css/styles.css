@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Grandstander&display=swap);
+@import '/assets/fonts/sponge-boy/SpongeboyRegular.css';
 
 html,
 body {
@@ -8,27 +9,21 @@ body {
 }
 
 body {
-	width: 98vw;
-}
-
-.bg {
-	position: fixed;
-	display: grid;
-	grid-template-rows: auto 1fr;
-	width: 100vw;
-	height: 100vh;
-	min-height: 100vh;
-	background: url(/assets/background_opt.svg) no-repeat 50% fixed;
+	background: url(/assets/background_opt.svg) no-repeat center center fixed;
 	background-color: #fff;
 	background-size: 100% 100%;
-	overflow: hidden auto;
-	z-index: -1;
+	width: 100vw;
+	overflow-x: hidden;
+}
+
+header a{
+	display: flex;
+	justify-content: center;
 }
 
 h1 {
 	font-family: Grandstander, Roboto, sans-serif;
 	text-align: center;
-	padding-top: 30vh;
 }
 
 h2 {
@@ -63,17 +58,8 @@ h3 {
 	max-height: 20vh;
 }
 
-section {
-	padding: 7vh 0;
-}
-
-section.alt {
-	background-color: #f3f6fa99;
-	
-}
-
-a.main {
-	font-family: Grandstander;
+a.play-btn {
+	font-family: Spongeboy;
 	color: #fff;
 	background-image: url(../assets/raised-btn.svg);
 	background-size: 100% 100%;
@@ -88,7 +74,7 @@ a.main {
 	margin-top: 10vh;
 }
 
-a.main:hover {
+a.play-btn:hover {
 	color: #fff;
 	text-decoration: none;
 	transform: scale(1.1);
@@ -106,7 +92,7 @@ h2.mb-0 > button:hover {
 
 footer {
 	background-image: url(../assets/header_opt.svg);
-	background-size: cover;
+	background-size: 100% 100%;
 	min-height: 84px;
 	transform: scale(-1);
 }
@@ -114,22 +100,26 @@ footer {
 footer ul {
 	transform: scale(-1);
 	text-align: center;
+	margin: 0;
+	padding: 0;
 }
 
 footer li{
 	display: inline-block;
-	font-size: 0.5em;
+	font-size: 0.8em;
+	padding: 3px 12px;
 }
 
 footer li > a {
 	color: #e2ecf2;
 }
 
-section.legal {
-	margin-top: 3vh;
+main.legal {
 	text-align: justify;
 }
 
-section.hero {
-	height: 100vh;
+main.home {
+	display: grid;
+	grid-template-rows: auto auto 200px;
+	align-items: center;
 }
