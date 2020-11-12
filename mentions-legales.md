@@ -1,9 +1,9 @@
 ---
 layout: legal
 ---
-### Editeur
+### Editeurs
 
-Jean-Baptiste Richardet
+Alexis Largaiolli, Jean-Baptiste Richardet
 
 ### Contact
 
@@ -12,10 +12,10 @@ URL : [https://kikamisa.fr](https://kikamisa.fr)
 
 ### Notes légales
 
-Responsable éditeur : Jean-Baptiste Richardet  
+Responsables éditeurs : Alexis Largaiolli, Jean-Baptiste Richardet
 Email (contenu) : [contact@kikamisa.fr](mailto:contact@kikamisa.fr)
 
-Responsable technique : Jean-Baptiste Richardet  
+Responsables techniques : Alexis Largaiolli, Jean-Baptiste Richardet
 Email (technique) : [contact@kikamisa.fr](mailto:contact@kikamisa.fr)
 
 ### Conditions d'utilisation
@@ -23,10 +23,10 @@ Email (technique) : [contact@kikamisa.fr](mailto:contact@kikamisa.fr)
 [https://kikamisa.fr](https://kikamisa.fr)
 
 Création graphique :  
-Jean-Baptiste Richardet
+Alexis Largaiolli
 
 Conception, réalisation technique :  
-Jean-Baptiste Richardet
+Alexis Largaiolli, Jean-Baptiste Richardet
 
 Hébergement :  
 GitHub Pages - [https://pages.github.com/](https://pages.github.com/)

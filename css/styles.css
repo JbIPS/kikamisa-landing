@@ -44,21 +44,12 @@ main.home {
 	justify-items: center;
 }
 
-h1 {
-	font-family: Grandstander, Roboto, sans-serif;
-	text-align: center;
-}
-
-h2 {
+main.home h1, main.home h2{
 	font-family: Grandstander, Roboto, sans-serif;
 }
 
-h3 {
+.center {
 	text-align: center;
-}
-
-.grandstander p {
-	font-family: Grandstander !important;
 }
 
 a.play-btn {
