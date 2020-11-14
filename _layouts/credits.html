@@ -1,0 +1,9 @@
+---
+layout: legal
+---
+<h1>{{page.title}}</h1>
+<ul>
+{% for credit in site.data.credits %}
+  <li><b><a href="{{credit.url}}">{{credit.title}}</b> - {{credit.licence}}</a></li>
+{% endfor %}
+</ul>

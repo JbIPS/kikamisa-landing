@@ -6,8 +6,10 @@ layout: kikamisa
 
   <h3 class="center">{{page.subtitle}}<br></h2>
 
-    <a class="play-btn"
-       href="https://play.kikamisa.fr">C'est parti</a>
+  <a class="play-btn"
+    href="https://play.kikamisa.fr">C'est parti</a>
+
+  {% include follow-buttons.html %}
 </main>
 <section class="faq alt">
   <div class="container">
@@ -35,7 +37,7 @@ layout: kikamisa
              aria-labelledby="header-{{slug}}"
              data-parent="#faq-list">
           <div class="card-body">
-            {{question.reponse}}
+            {{question.reponse | markdownify}}
           </div>
         </div>
       </div>

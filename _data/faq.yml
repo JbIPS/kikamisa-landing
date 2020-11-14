@@ -1,10 +1,40 @@
 - question: Comment on joue ?
-  reponse: <p>Une fois la partie lancée, vous verrez à deux reprises un extrait vidéo avec un sous-titre manquant.</p><p>Vous avez alors 90 secondes pour trouver votre meilleure réplique !</p><p>Il ne reste plus qu'à voter pour celle que vous préférez (après la vôtre bien sûr !).</p>
+  reponse: Une fois la partie lancée, vous verrez à deux reprises un extrait vidéo avec un sous-titre manquant.
+  
+
+    Vous avez alors 90 secondes pour trouver votre meilleure réplique !
+  
+
+    Il ne reste plus qu'à voter pour celle que vous préférez (après la vôtre bien sûr !).
+- question: Avec quoi on joue ?
+  reponse:
+    Kikamisa se joue sur votre ordinateur, votre portable et/ou votre téléphone ! Pour une meilleure expérience mobile, il est conseillé d'enregistrer le site sur votre écran d'accueil. Le jeu chargera plus vite, les vidéos seront en plein écran et vos potes vous trouverons plus cool !
+
+
+    Comment faire ? C'est expliqué [ici pour les Androids](https://www.commentcamarche.net/faq/45501-android-creer-un-raccourci-vers-un-site-web-sur-votre-accueil) et [ici pour les iPhones](https://www.commentcamarche.net/faq/55182-ajouter-un-site-favori-sur-l-ecran-d-accueil-d-un-iphone-ou-d-un-ipad) !
 - question: Collés serrés ou à distance ?
-  reponse: "<p>Le jeu d’ambiance KIKAMISA se joue partout !</p><p>Avec des amis autour d’une bière, en famille sur le même canapé, ou éparpillés à des milliers de kilomètres, tout est possible :)</p><p>Collés serrés : Vous visionnez ensemble les vidéos sur un même appareil et saisissez vos répliques chacun sur votre téléphone. </p><p>Vous souhaitez rejoindre la partie mais vous êtes à distance ? Pas de soucis ! Il vous suffit de récupérer le code à 4 lettres et d’intégrer le jeu. </p><p>Chacun chez soi : Encore là, c’est possible ! Visionner les vidéos et jouer sur votre mobile, en grenouillère girafe et sous le plaid :D</p>"
+  reponse: Le jeu d’ambiance KIKAMISA se joue partout !
+  
+
+    Avec des amis autour d’une bière, en famille sur le même canapé, ou éparpillés à des milliers de kilomètres, tout est possible :)
+  
+
+    **Collés serrés :** Vous visionnez ensemble les vidéos sur un même appareil et saisissez vos répliques chacun sur votre téléphone.
+  
+
+    Vous souhaitez rejoindre la partie mais vous êtes à distance ? Pas de soucis ! Il vous suffit de récupérer le code à 4 lettres et d’intégrer le jeu.
+  
+
+    **Chacun chez soi :** là encore, c’est possible ! Visionnez les vidéos et jouez sur votre mobile, en grenouillère girafe et sous le plaid 😃
 - question: Faut-il avoir un compte ?
-  reponse: Non, avoir un compte permet seulement de ne pas vous reproposer les mêmes vidéos avant d'avoir épuisé la liste des contenus disponibles. <p>Promis, on ne garde qu'un identifiant pour ça et personne n'aura vos données !</p>
+  reponse: Non, avoir un compte permet seulement de ne pas vous reproposer les mêmes vidéos avant d'avoir épuisé la liste des contenus disponibles.
+  
+  
+    Promis, on ne garde qu'un identifiant pour ça et personne n'aura vos données !
 - question: Combien ça coûte ?
-  reponse: Kikamisa propose gratuitement 40 vidéos pour vous amuser entre amis ! <p>Mais pour rire encore et encore et encore et encore..., des packs sont disponibles à l'achat.</p>
+  reponse: Kikamisa propose gratuitement 40 vidéos pour vous amuser entre amis !
+  
+  
+    Mais pour rire encore et encore et encore et encore..., des packs sont disponibles à l'achat.
 - question: Est-ce que tout le monde a besoin d'avoir un pack pour y jouer ?
   reponse: Non, il suffit que le créateur de la partie l'ai ! Quand une partie est créée, elle prend en compte tous les packs achetés par son créateur.
