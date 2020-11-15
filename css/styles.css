@@ -39,7 +39,7 @@ main.legal {
 
 main.home {
 	display: grid;
-	grid-template-rows: auto auto 150px;
+	grid-template-rows: auto auto 200px;
 	align-items: center;
 	justify-items: center;
 	grid-gap: 24px;
@@ -48,6 +48,16 @@ main.home {
 main.home h1, main.home h3{
 	font-family: Grandstander, Roboto, sans-serif;
 	margin: 0;
+}
+
+
+@media(max-width: 700px){
+	main.home h1{
+		font-size: 2rem;
+	}
+	main.home h3{
+		font-size: 1.4rem;
+	}
 }
 
 .center {
