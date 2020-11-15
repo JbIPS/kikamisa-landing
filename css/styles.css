@@ -83,15 +83,22 @@ h2.mb-0 > button:hover {
 	color: black;
 }
 
-footer {
+footer{
+	margin-top: 24px;
+}
+
+footer .top-footer{
 	background-image: url(../assets/header_opt.svg);
 	background-size: 100% 100%;
-	min-height: 84px;
+	min-height: 50px;
 	transform: scale(-1);
 }
 
+footer .bot-footer{
+	background: #d40000;
+}
+
 footer ul {
-	transform: scale(-1);
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -105,4 +112,11 @@ footer li{
 
 footer li > a {
 	color: #e2ecf2;
+}
+
+@media(max-width: 700px){
+	footer ul {
+		display: flex;
+		flex-direction: column;
+	}
 }

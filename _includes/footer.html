@@ -1,7 +1,10 @@
 <footer>
-  <ul>
-  {% for link in site.data.footer%}
-    <li><a href="{{link.target}}">{{link.text}}</a></li>
-  {% endfor %}
-  </ul>
+  <div class="top-footer"></div>
+  <div class="bot-footer">
+    <ul>
+      {% for link in site.data.footer%}
+      <li><a href="{{link.target}}">{{link.text}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 </footer>
