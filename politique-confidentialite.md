@@ -1,8 +1,11 @@
 ---
 layout: legal
 ---
+
 ## Le Règlement Général de Protection des données (RGPD) entrant en vigueur le 25 mai 2018, définit les principes à respecter lors de la collecte, du traitement et de la conservation de données personnelles. Ils garantissent aussi les droits pour les personnes concernées.
+
 ### Notre site propose plusieurs formulaires afin de collecter les données d’un visiteur ou d’un candidat.
+
 A. Introduction
 
 1. La confidentialité des visiteurs de notre site web est très importante à nos yeux, et nous nous engageons à la protéger. Cette politique détaille ce que nous faisons de vos informations personnelles.
@@ -62,16 +65,16 @@ E. Transferts internationaux de données
 1. Les informations que nous collectons peuvent être stockées, traitées et transférées dans tous les pays dans lesquels nous opérons, afin de nous permettre d’utiliser les informations en accord avec cette politique.
 2. Les informations que nous collectons peuvent être transférées dans les pays suivants, n’ayant pas de lois de protections des données équivalentes à celles en vigueur dans l’espace économique européen : les États-Unis d’Amérique, la Russie, le Japon, la Chine et l’Inde.
 3. Les informations personnelles que vous publiez sur notre site web ou que vous soumettez à la publication peuvent être disponibles, via internet, dans le monde entier. Nous ne pouvons empêcher l’utilisation, bonne ou mauvaise, de ces informations par des tiers.
-Vous acceptez expressément le transfert d’informations personnelles décrit dans cette Section F.
+   Vous acceptez expressément le transfert d’informations personnelles décrit dans cette Section F.
 
 F. Conservation de vos informations personnelles
 
 1. Cette Section F détaille nos politiques de conservation des données et nos procédures, conçues pour nous aider à nous conformer à nos obligations légales concernant la conservation et la suppression d’informations personnelles.
 2. Les informations personnelles que nous traitons à quelque fin que ce soit ne sont pas conservées plus longtemps que nécessaire à cette fin ou à ces fins.
 3. Nonobstant les autres dispositions de cette Section F, nous conserverons des documents (y compris des documents électroniques) contenant des données personnelles:
-    1. Dans la mesure où nous sommes tenus de le faire par la loi ;
-    2. Si nous pensons que les documents peuvent être pertinents pour toute procédure judiciaire en cours ou potentielle ; et
-    3. Pour établir, exercer ou défendre nos droits légaux (y compris fournir des informations à d’autres à des fins de prévention des fraudes et de réduction des risques de crédit).
+   1. Dans la mesure où nous sommes tenus de le faire par la loi ;
+   2. Si nous pensons que les documents peuvent être pertinents pour toute procédure judiciaire en cours ou potentielle ; et
+   3. Pour établir, exercer ou défendre nos droits légaux (y compris fournir des informations à d’autres à des fins de prévention des fraudes et de réduction des risques de crédit).
 
 G. Sécurité de vos informations personnelles
 
@@ -110,6 +113,7 @@ L. Cookies
 Notre site web utilise des cookies. Un cookie est un fichier contenant un identifiant (une chaîne de lettres et de chiffres) envoyé par un serveur web vers un navigateur web et stocké par le navigateur. L’identifiant est alors renvoyé au serveur à chaque fois que le navigateur demande une page au serveur. Les cookies peuvent être « persistants » ou « de session » : un cookie persistant est stocké par le navigateur et reste valide jusqu’à sa date d’expiration, à moins d’être supprimé par l’utilisateur avant cette date d’expiration ; quant à un cookie de session, il expire à la fin de la session utilisateur, lors de la fermeture du navigateur. Les cookies ne contiennent en général aucune information permettant d’identifier personnellement un utilisateur, mais les informations personnelles que nous stockons à votre sujet peuvent être liées aux informations stockées dans les cookies et obtenues par les cookies. Nous n’utilisons des cookies de session et des cookies persistants sur notre site web.
 
 La plupart des navigateurs vous permettent de refuser ou d’accepter les cookies. Par exemple:
+
 1. avec Internet Explorer (version 10), vous pouvez bloquer les cookies en utilisant les paramètres de remplacement de la gestion des cookies disponibles en cliquant sur «Outils», «Options internet», «Confidentialité» puis «Avancé»;
 2. avec Firefox (version 24), vous pouvez bloquer tous les cookies en cliquant sur «Outils», «Options», «Confidentialité» puis en sélectionnant «Utiliser des paramètres personnalisés pour l’historique» depuis le menu déroulant et en décochant «Accepter les cookies provenant des sites»; et
 3. avec Chrome (version 29), vous pouvez bloquer tous les cookies en accédant au menu «Personnaliser et contrôler» puis en cliquant sur «Paramètres», «Montrer les paramètres avancés» et «Paramètres de contenu» puis en sélectionnant «Empêcher les sites de définir des données» dans l’en-tête «Cookies».
@@ -117,7 +121,12 @@ La plupart des navigateurs vous permettent de refuser ou d’accepter les cookie
 Bloquer tous les cookies aura un impact négatif sur l’utilisation de nombreux sites web. Si vous bloquez les cookies, vous ne pourrez pas utiliser toutes les fonctionnalités de notre site web.
 
 Vous pouvez supprimer les cookies déjà stockés sur votre ordinateur. Exemple:
+
 1. avec Internet Explorer (version 10), vous devez supprimer le fichier cookies manuellement (vous pourrez trouver des instructions pour le faire ici http://support.microsoft.com/kb/278835);
 2. avec Firefox (version 24), vous pouvez supprimer les cookies en cliquant sur «Outils», «Options», et «Confidentialité», puis en sélectionnant «Utiliser des paramètres personnalisés pour l’historique» et en cliquant sur «Montrer les cookies», puis sur «Supprimer tous les cookies»; et
 3. avec Chrome (version 29), vous pouvez supprimer tous les cookies en accédant au menu «Personnaliser et contrôler» puis en cliquant sur «Paramètres», « Montrer les paramètres avancés » et «Supprimer les données de navigation» puis «Supprimer les cookies et les données des modules d’autres sites» avant de cliquer sur «Supprimer les données de navigation».
-Supprimer les cookies aura un impact négatif sur l’utilisation de nombreux sites web.
+   Supprimer les cookies aura un impact négatif sur l’utilisation de nombreux sites web.
+
+M. Suppression des données
+
+Pour demander la suppression de vos données vous pouvez envoyer une demande par mail à l'adresse contact@kikamisa.fr.
